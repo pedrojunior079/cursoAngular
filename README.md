@@ -34,11 +34,17 @@ Curso de Angular 13: Validação de formulário com Reactive Forms - #28
 vamos criar as validações de formulário com Angular utilizando um recurso
 chamado Reactive Forms
 
-Curso Angular 13: Inserindo0 dados no sistema - #29
+Curso Angular 13: Inserindo dados no sistema - #29
 Vamos inserir os dados no banco atraves da API
 Conseguiremos treinar processos comuns em um app desenvolvido com Angular 
 
+Curso Angular 13: Iniciando componente de mensagem - #30
+vamos iniciar um componente muito importante do nosso projeto, componente de
+mensagens com isso conseguimos exibir os erros do sistema ou validações, por 
+exemplo, que possam vir a aconter no nosso projeto de Angular.
 
+ng generate component components/messages
+ng add @fortawesome/angular-fontawesome
 
 
 
