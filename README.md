@@ -47,6 +47,9 @@ ng generate component components/messages
 ng add @fortawesome/angular-fontawesome
 
 
+Curso Angular 13: Finalizando sistema de mensagens - #31
+vamos deixar o sistema de mensagem do nosso projeto totalmente funcional.
+
 
 
 
