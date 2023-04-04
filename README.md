@@ -50,6 +50,10 @@ ng add @fortawesome/angular-fontawesome
 Curso Angular 13: Finalizando sistema de mensagens - #31
 vamos deixar o sistema de mensagem do nosso projeto totalmente funcional.
 
+Curos Angular 13: Resgatando dados do banco - #32
+
+Curso Angular 13: Finalziando a home - #33
+vamos finalizar a home do projeto em Angular
 
 
 
